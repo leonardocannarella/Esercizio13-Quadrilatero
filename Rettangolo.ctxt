@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rettangolo
+comment0.text=\r\n\ Classe\ Rettangolo\r\n\ \r\n\ @author\ Balda\ \r\n\ @version\ 0.0.1\r\n
+comment1.params=l1\ l2
+comment1.target=Rettangolo(double,\ double)
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=double\ perimetro()
+numComments=4
