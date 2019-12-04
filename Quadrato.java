@@ -1,16 +1,15 @@
 
 /**
- * Classe Quadrato
+ * Classe Quadrado
  * 
- * @author (Leonardo Cannarella) 
- * @version (1.0 - 29/11/2019)
+ * @author Balda 
+ * @version 0.0.1
  */
 public class Quadrato extends Quadrilatero
 {
-    
     public Quadrato(double l)
     {
-        super(l, l , l, l);
+        super(l, l, l, l);
     }
     
     public double area()

@@ -1,7 +1,7 @@
 
 /**
  * Classe astratta Quadrilatero
- * r
+ * 
  * @author Balda 
  * @version 0.0.1
  */
@@ -21,6 +21,7 @@ public abstract class Quadrilatero implements IQuadrilatero
     }
     
     public abstract double area();
+    
     public double perimetro()
     {
         return l1+l2+l3+l4;
@@ -44,5 +45,13 @@ public abstract class Quadrilatero implements IQuadrilatero
     public double getL4()
     {
         return l4;
+    }
+    
+    public String toString()
+    {
+        return "Lato 1: "+getL1()+
+        "\nLato 2: "+getL2()+
+        "\nLato 3: "+getL3()+
+        "\nLato 4: "+getL4();
     }
 }

@@ -1,9 +1,9 @@
 
 /**
- * Test
+ * Classe Test
  * 
- * @author (Leonardo Cannarella) 
- * @version (1.0 - 29/11/2019)
+ * @author Balda 
+ * @version 0.0.1
  */
 public class Test
 {
